@@ -1,0 +1,8 @@
+D:\doc\repo\BluetoothFastConfig\BluetoothFastConfig\bin\Debug\BluetoothFastConfig.exe
+D:\doc\repo\BluetoothFastConfig\BluetoothFastConfig\bin\Debug\BluetoothFastConfig.pdb
+D:\doc\repo\BluetoothFastConfig\BluetoothFastConfig\obj\x86\Debug\BluetoothFastConfig.csprojAssemblyReference.cache
+D:\doc\repo\BluetoothFastConfig\BluetoothFastConfig\obj\x86\Debug\BluetoothFastConfig.Form1.resources
+D:\doc\repo\BluetoothFastConfig\BluetoothFastConfig\obj\x86\Debug\BluetoothFastConfig.Properties.Resources.resources
+D:\doc\repo\BluetoothFastConfig\BluetoothFastConfig\obj\x86\Debug\BluetoothFastConfig.csproj.GenerateResource.cache
+D:\doc\repo\BluetoothFastConfig\BluetoothFastConfig\obj\x86\Debug\BluetoothFastConfig.exe
+D:\doc\repo\BluetoothFastConfig\BluetoothFastConfig\obj\x86\Debug\BluetoothFastConfig.pdb
